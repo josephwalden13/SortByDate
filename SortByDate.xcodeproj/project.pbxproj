@@ -26,7 +26,6 @@
 /* Begin PBXFileReference section */
 		5280242EF30CE5EA38CAAFC1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		5280281DD4464E9429F8716F /* SortByDate */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SortByDate; sourceTree = BUILT_PRODUCTS_DIR; };
-		8F3C497B260C010D00D1D2C0 /* SortByDate */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = SortByDate; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +51,6 @@
 		52802E067D165EF1CB5425CE = {
 			isa = PBXGroup;
 			children = (
-				8F3C4979260C00D000D1D2C0 /* Builds */,
 				52802736D1EE096E33E0999B /* Products */,
 				52802F30EB1BD02AC53D56B2 /* SortByDate */,
 			);
@@ -64,22 +62,6 @@
 				5280242EF30CE5EA38CAAFC1 /* main.swift */,
 			);
 			path = SortByDate;
-			sourceTree = "<group>";
-		};
-		8F3C4979260C00D000D1D2C0 /* Builds */ = {
-			isa = PBXGroup;
-			children = (
-				8F3C497A260C00E000D1D2C0 /* 1.0 */,
-			);
-			path = Builds;
-			sourceTree = "<group>";
-		};
-		8F3C497A260C00E000D1D2C0 /* 1.0 */ = {
-			isa = PBXGroup;
-			children = (
-				8F3C497B260C010D00D1D2C0 /* SortByDate */,
-			);
-			path = 1.0;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
